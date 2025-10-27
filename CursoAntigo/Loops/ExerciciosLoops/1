@@ -1,0 +1,30 @@
+1. Par ou ímpar
+Peça um número ao usuário e diga se ele é par ou ímpar.
+
+2. Maior de três números
+Peça três números e mostre qual é o maior.
+
+3. Soma dos pares (for)
+Peça 10 números e use um for para somar apenas os números pares.
+
+4. Contagem regressiva (while)
+Peça um número e faça uma contagem regressiva até 0.
+
+5. Tabuada (for)
+Peça um número e mostre a tabuada dele (1 a 10).
+
+6. Adivinhe o número (while)
+O programa escolhe um número secreto (fixo ou aleatório).
+O usuário tenta adivinhar até acertar, com mensagens de "maior" ou "menor".
+
+7. Média de notas (for + if)
+Peça 5 notas, calcule a média e diga se o aluno foi aprovado (>= 6) ou reprovado.
+
+8. Contador de vogais
+Peça uma palavra e use um for para contar quantas vogais ela tem.
+
+9. Verificação de senha (while)
+Peça uma senha e só encerre quando o usuário digitar a senha correta ("python123", por exemplo).
+
+10. Números positivos e negativos (for + if)
+Peça 7 números e conte quantos são positivos, negativos e zeros.
